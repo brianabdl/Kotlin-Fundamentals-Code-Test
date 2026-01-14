@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "First Challenge GDGOC UNESA\'25"
+rootProject.name = "First Challenge GDGOC UNESA 2025"
 include(":app")

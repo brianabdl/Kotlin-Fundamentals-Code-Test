@@ -68,7 +68,7 @@ class KotlinFundamentalsUnitTest {
     fun testDivideWithRemainder() {
         assertEquals(Pair(3, 1), test.divideWithRemainder(10, 3))
         assertEquals(Pair(5, 0), test.divideWithRemainder(20, 4))
-        assertEquals(Pair(2, 3), test.divideWithRemainder(7, 3))
+        assertEquals(Pair(2, 1), test.divideWithRemainder(7, 3))
         assertEquals(Pair(0, 5), test.divideWithRemainder(5, 10))
     }
 
